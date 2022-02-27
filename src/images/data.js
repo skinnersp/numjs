@@ -3,6 +3,8 @@ var path = require('path');
 
 var read = require('./read');
 
+var __dirname = path.resolve(path.dirname(''));
+
 var DATA_DIR = path.join(path.resolve(__dirname), '../../data');
 
 function getArray (fileName) {

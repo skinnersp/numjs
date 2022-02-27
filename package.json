@@ -1,5 +1,5 @@
 {
-  "name": "numjs",
+  "name": "@skinnersp/numjs",
   "version": "0.16.1",
   "description": "Like NumPy, in JavaScript",
   "main": "src/index.js",
@@ -59,7 +59,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/nicolaspanel/numjs.git"
+    "url": "git://github.com/skinnersp/numjs.git"
   },
   "keywords": [
     "ndarray",
